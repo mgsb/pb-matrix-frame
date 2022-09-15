@@ -2,7 +2,7 @@
 
 This 3D printer project provides three parts that go together to form a self-contained holder for a Pixelblaze LED controller and an 8x8 LED matrix (note that other vendor's matrices likely will have different dimensions).
 
-![Video of project in action](./media/pixelblaze_frame.webm.mov)
+https://user-images.githubusercontent.com/760846/190319472-cfde13ed-4a80-4a48-9cac-1f4001eb9025.mov
 
 The design is written using [OpenSCAD](http://openscad.org/), so you can change whatever you want. You can also use the "Customizer" feature of OpenSCAD to adjust some of the key attributes and generate new STL files.
 

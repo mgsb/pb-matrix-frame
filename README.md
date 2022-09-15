@@ -1,8 +1,8 @@
 # Pixelblaze and 8x8 Matrix Frame
 
-This 3D printer project provides three parts that go together to form a self-contained holder for a Pixelblaze LED controller and an [8x8 LED matrix](https://shop.electromage.com/products/8x8-led-matrix-sk6812) (note that other vendor's matrices likely will have different dimensions).
+This 3D printer project provides three parts that go together to form a self-contained holder for a Pixelblaze LED controller and an 8x8 LED matrix (note that other vendor's matrices likely will have different dimensions).
 
-![Video of project in action](./media/pixelblaze_frame.webm)
+![Video of project in action](./media/pixelblaze_frame.webm.mov)
 
 The design is written using [OpenSCAD](http://openscad.org/), so you can change whatever you want. You can also use the "Customizer" feature of OpenSCAD to adjust some of the key attributes and generate new STL files.
 
